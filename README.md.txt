@@ -1,5 +1,6 @@
 						OfficeTime
-“Be the speed you wish to see in the world”
+				“Be the speed you wish to see in the world”
+				
 Darryl Steve Ferdinands, Sheena Gupta, Shivam Tyagi, Tarun Tyagi
 San Jose State University
 San Jose, CA, USA
